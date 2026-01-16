@@ -1,0 +1,7 @@
+{
+  "nav": { "home": "მთავარი", "search": "ძიება", "watchlist": "საჩვენებელთა სია" },
+  "home": { "trending": "ტრენდი", "today": "დღისთვის", "week": "ამ კვირის" },
+  "search": { "placeholder": "ფილმების ძებნა...", "no_results": "არ არის შედეგი" },
+  "watchlist": { "empty": "თქვენი საყურებელთა სია ცარიელია" },
+  "errors": { "no_key": "API გასაღები არ არის. დაამატეთ VITE_TMDB_API_KEY .env-ში" }
+}

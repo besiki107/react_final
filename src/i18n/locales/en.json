@@ -1,0 +1,7 @@
+{
+  "nav": { "home": "Home", "search": "Search", "watchlist": "Watchlist" },
+  "home": { "trending": "Trending", "today": "Today", "week": "This Week" },
+  "search": { "placeholder": "Search movies...", "no_results": "No results" },
+  "watchlist": { "empty": "Your watchlist is empty" },
+  "errors": { "no_key": "API key missing. Add VITE_TMDB_API_KEY in .env" }
+}
